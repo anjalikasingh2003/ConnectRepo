@@ -1,0 +1,9 @@
+--- a/./tests/test.py
++++ b/./tests/test.py
+def divide():
+  a=5/1
+  print(a)
+
+# efhuNJ grh
+
+divide()
