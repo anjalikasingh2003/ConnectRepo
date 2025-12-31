@@ -1,8 +1,8 @@
 
 def divide():
   a=5/0
+  print(a)
 
 
-if __name__ == "__main__":
-    # Call the function be vs jhi
-    divide()
+
+  divide()
