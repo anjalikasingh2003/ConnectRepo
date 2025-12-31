@@ -4,4 +4,5 @@ def divide():
 
 
 if __name__ == "__main__":
+    # Call the function
     divide()
