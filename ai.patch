@@ -1,0 +1,9 @@
+--- a/./tests/test.py
++++ b/./tests/test.py
+@@ -1,5 +1,5 @@
+def divide():
+-  a=5/0
++  a=5/1 # Changed 0 to 1 to avoid ZeroDivisionError
+   print(a)
+ 
+ 
