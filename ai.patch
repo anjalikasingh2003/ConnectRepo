@@ -1,0 +1,14 @@
+--- a/./tests/test.py
++++ b/./tests/test.py
+@@ -1,7 +1,8 @@
+ def divide():
+-  a=5/0
+-  print(a)
++  try:
++    a=5/0
++    print(a)
++  except ZeroDivisionError:
++    print("Error: Cannot divide by zero!")
+ 
+ # efhuNJ
+ 
