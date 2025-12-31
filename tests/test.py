@@ -3,6 +3,6 @@ def divide():
   a=5/0
   print(a)
 
-# efhu
+# efhuNJ
 
 divide()
