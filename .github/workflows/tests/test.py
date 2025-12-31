@@ -4,5 +4,5 @@ def divide():
 
 
 if __name__ == "__main__":
-    # Call the function be vs
+    # Call the function be vs jhi
     divide()
